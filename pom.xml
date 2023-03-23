@@ -13,7 +13,7 @@
 	<artifactId>easytest-core</artifactId>
 	<packaging>jar</packaging>
 	<name>EasyTest to ease Data Driven Testing</name>
-	<description>EasyTest is a JUnit extension perform Data Driven Testing with ease and simplicity. 
+	<description>EasyTest is a JUnit extension perform Data Driven Testing with ease and simplicity.
     It supports method parameters with Test annotation and much more.</description>
 	<url>https://github.com/EaseTech/easytest-core</url>
 	<version>1.4.1-SNAPSHOT</version>
@@ -50,7 +50,7 @@
 		<developerConnection>scm:git:https://anujgandharv@github.com/EaseTech/easytest-core.git</developerConnection>
 		<url>scm:git:https://anujgandharv@github.com/EaseTech/easytest-core</url>
 	</scm>
-    
+
     <repositories>
         <repository>
             <id>maven2-repository.dev.java.repositorynet</id>
