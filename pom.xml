@@ -16,7 +16,7 @@
 	<description>EasyTest is a JUnit extension perform Data Driven Testing with ease and simplicity.
     It supports method parameters with Test annotation and much more.</description>
 	<url>https://github.com/EaseTech/easytest-core</url>
-	<version>1.4.1-SNAPSHOT</version>
+	<version>1.4.1.2-SNAPSHOT</version>
 
 	<developers>
 		<developer>
@@ -229,7 +229,7 @@
 			<scope>compile</scope>
 		</dependency>
 
-		<dependency>
+		<!-- dependency>
 			<groupId>log4j</groupId>
 			<artifactId>log4j</artifactId>
 			<version>1.2.15</version>
@@ -252,9 +252,9 @@
 					<artifactId>jmxri</artifactId>
 				</exclusion>
 			</exclusions>
-		</dependency>
+		</dependency !-->
 
-		<dependency>
+		<!-- dependency>
 			<groupId>org.slf4j</groupId>
 			<artifactId>slf4j-log4j12</artifactId>
 			<version>1.6.1</version>
@@ -266,7 +266,7 @@
 			<artifactId>jcl-over-slf4j</artifactId>
 			<version>1.6.1</version>
 			<scope>runtime</scope>
-		</dependency>
+		</dependency -->
 
 		<dependency>
 			<groupId>net.sourceforge.javacsv</groupId>
